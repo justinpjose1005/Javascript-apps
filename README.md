@@ -1,2 +1,3 @@
-# Javascript-apps
-My initial javascript codes.
+# javascript-apps
+
+Tinkering with javascript
