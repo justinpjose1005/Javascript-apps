@@ -28,6 +28,7 @@ form button {
   font-size: 2rem;
   border: none;
   background: white;
+  outline: none;
 }
 
 form button {
@@ -75,6 +76,7 @@ form button:hover {
     padding: 1rem;
     cursor: pointer;
     font-size: 1rem;
+    outline: none;
 }
 
 .complete-btn {
